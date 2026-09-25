@@ -9,7 +9,6 @@
 <img src='AVENTAL BRIM P MARINHO ESCURO.png' alt='AVENTAL BRIM P MARINHO ESCURO.png' title='AVENTAL BRIM P MARINHO ESCURO.png' />
 <img src='AVENTAL BRIM P PRETO.png' alt='AVENTAL BRIM P PRETO.png' title='AVENTAL BRIM P PRETO.png' />
 <img src='AVENTAL BRIM P ROYAL.png' alt='AVENTAL BRIM P ROYAL.png' title='AVENTAL BRIM P ROYAL.png' />
-<img src='AVENTAL BRIM P VERDE ÁGUA.png' alt='AVENTAL BRIM P VERDE ÁGUA.png' title='AVENTAL BRIM P VERDE ÁGUA.png' />
 
 </body>
 </html>
