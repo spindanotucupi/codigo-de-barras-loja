@@ -1,15 +1,6 @@
 <html>
 <body>
-<img scr='AVENTAL BRIM P.png' alt='AVENTAL BRIM P.png' title='AVENTAL BRIM P.png' />
-<img scr='AVENTAL BRIM P AREIA.png' alt='AVENTAL BRIM P AREIA.png' title='AVENTAL BRIM P AREIA.png' />
-<img scr='AVENTAL BRIM P BRANCO.png' alt='AVENTAL BRIM P BRANCO.png' title='AVENTAL BRIM P BRANCO.png' />
-<img scr='AVENTAL BRIM P CHUMBO.png' alt='AVENTAL BRIM P CHUMBO.png' title='AVENTAL BRIM P CHUMBO.png' />
-<img scr='AVENTAL BRIM P CINZA PEDRA.png' alt='AVENTAL BRIM P CINZA PEDRA.png' title='AVENTAL BRIM P CINZA PEDRA.png' />
-<img scr='AVENTAL BRIM P MARINHO.png' alt='AVENTAL BRIM P MARINHO.png' title='AVENTAL BRIM P MARINHO.png' />
-<img scr='AVENTAL BRIM P MARINHO ESCURO.png' alt='AVENTAL BRIM P MARINHO ESCURO.png' title='AVENTAL BRIM P MARINHO ESCURO.png' />
-<img scr='AVENTAL BRIM P PRETO.png' alt='AVENTAL BRIM P PRETO.png' title='AVENTAL BRIM P PRETO.png' />
-<img scr='AVENTAL BRIM P ROYAL.png' alt='AVENTAL BRIM P ROYAL.png' title='AVENTAL BRIM P ROYAL.png' />
-<img scr='AVENTAL BRIM P VERDE ÁGUA.png' alt='AVENTAL BRIM P VERDE ÁGUA.png' title='AVENTAL BRIM P VERDE ÁGUA.png' />
+<img scr="AVENTAL BRIM P.png" alt="AVENTAL BRIM P.png" title="AVENTAL BRIM P.png" />
 
 
 
