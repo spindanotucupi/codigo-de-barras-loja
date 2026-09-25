@@ -10,7 +10,6 @@
 <img src='AVENTAL BRIM P PRETO.png' alt='AVENTAL BRIM P PRETO.png' title='AVENTAL BRIM P PRETO.png' />
 <img src='AVENTAL BRIM P ROYAL.png' alt='AVENTAL BRIM P ROYAL.png' title='AVENTAL BRIM P ROYAL.png' />
 <img src='AVENTAL BRIM P VERDE ÁGUA.png' alt='AVENTAL BRIM P VERDE ÁGUA.png' title='AVENTAL BRIM P VERDE ÁGUA.png' />
-<img width="848" height="201" alt="image" src="https://github.com/user-attachments/assets/c9e2246a-769f-4dc9-8f6c-3bd5ba516cb7" />
 
 </body>
 </html>
